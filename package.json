@@ -10,9 +10,7 @@
   "author": "Brent Schooley",
   "license": "ISC",
   "dependencies": {
+    "node-env-run": "^2.0.1",
     "twilio": "^3.8.0"
-  },
-  "devDependencies": {
-    "node-env-run": "^2.0.1"
   }
 }
